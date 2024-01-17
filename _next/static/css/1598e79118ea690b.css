@@ -1,0 +1,119 @@
+@font-face {
+    font-family: Formular;
+    src: url(/_next/static/media/FORMULAR.64f7aa43.TTF);
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Formular;
+    src: url(/_next/static/media/FORMULAR-ITALIC.b49b6100.TTF);
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Formular;
+    src: url(/_next/static/media/FORMULAR-LIGHT.28497da5.TTF);
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Formular;
+    src: url(/_next/static/media/FORMULAR-LIGHTITALIC.2ea003b7.TTF);
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Formular;
+    src: url(/_next/static/media/FORMULAR-MEDIUM.1c7fb284.TTF);
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Formular;
+    src: url(/_next/static/media/FORMULAR-MEDIUMITALIC.319e809c.TTF);
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Formular;
+    src: url(/_next/static/media/FORMULAR-BOLD.1727a9eb.TTF);
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Formular;
+    src: url(/_next/static/media/FORMULAR-BOLDITALIC.9127f3e8.TTF);
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Formular;
+    src: url(/_next/static/media/FORMULAR-BLACK.f7570880.TTF);
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Formular;
+    src: url(/_next/static/media/FORMULAR-BLACKITALIC.72fcd023.TTF);
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Syne;
+    src: url(/_next/static/media/SYNE-REGULAR.8081c772.TTF);
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Syne;
+    src: url(/_next/static/media/SYNE-BOLD.0280234b.TTF);
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Syne;
+    src: url(/_next/static/media/SYNE-EXTRABOLD.a96115d6.TTF);
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Syne;
+    src: url(/_next/static/media/SYNE-MEDIUM.370aa25e.TTF);
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Syne;
+    src: url(/_next/static/media/SYNE-SEMIBOLD.5998fea8.TTF);
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap
+}
